@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-28T16:19:33 IST" name="Suite" finished-at="2024-05-28T16:22:24 IST" duration-ms="170497">
+    <groups>
+    </groups>
+    <test started-at="2024-05-28T16:19:33 IST" name="Test" finished-at="2024-05-28T16:22:24 IST" duration-ms="170497">
+      <class name="CapstoneProjects.LoginTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:CapstoneProjects.LoginTest@776aec5c]" started-at="2024-05-28T16:20:26 IST" name="setUp" finished-at="2024-05-28T16:20:36 IST" duration-ms="9548" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginwithDummycredentials()[pri:0, instance:CapstoneProjects.LoginTest@776aec5c]" started-at="2024-05-28T16:20:36 IST" name="loginwithDummycredentials" finished-at="2024-05-28T16:20:38 IST" duration-ms="2174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithDummycredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:CapstoneProjects.LoginTest@776aec5c]" started-at="2024-05-28T16:20:38 IST" name="tearDown" finished-at="2024-05-28T16:20:39 IST" duration-ms="1361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- CapstoneProjects.LoginTest -->
+      <class name="CapstoneProjects.SignUpTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:CapstoneProjects.SignUpTest@7cc0cdad]" started-at="2024-05-28T16:19:33 IST" name="setUp" finished-at="2024-05-28T16:19:48 IST" duration-ms="14639" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateSignUpPage()[pri:0, instance:CapstoneProjects.SignUpTest@7cc0cdad]" started-at="2024-05-28T16:19:48 IST" name="validateSignUpPage" finished-at="2024-05-28T16:19:55 IST" duration-ms="7329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSignUpPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:CapstoneProjects.SignUpTest@7cc0cdad]" started-at="2024-05-28T16:19:55 IST" name="tearDown" finished-at="2024-05-28T16:19:57 IST" duration-ms="1545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- CapstoneProjects.SignUpTest -->
+      <class name="CapstoneProjects.FlightBookingTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:CapstoneProjects.FlightBookingTest@5b7a5baa]" started-at="2024-05-28T16:20:15 IST" name="setUp" finished-at="2024-05-28T16:20:24 IST" duration-ms="8351" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="selectFlightAndProceedToBooking()[pri:0, instance:CapstoneProjects.FlightBookingTest@5b7a5baa]" started-at="2024-05-28T16:20:24 IST" name="selectFlightAndProceedToBooking" finished-at="2024-05-28T16:20:25 IST" duration-ms="1206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectFlightAndProceedToBooking -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:CapstoneProjects.FlightBookingTest@5b7a5baa]" started-at="2024-05-28T16:20:25 IST" name="tearDown" finished-at="2024-05-28T16:20:26 IST" duration-ms="1403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- CapstoneProjects.FlightBookingTest -->
+      <class name="CapstoneProjects.BookingFormTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:CapstoneProjects.BookingFormTest@5bf0d49]" started-at="2024-05-28T16:19:57 IST" name="setUp" finished-at="2024-05-28T16:20:08 IST" duration-ms="10605" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="fillBookingFromAndSubmit()[pri:0, instance:CapstoneProjects.BookingFormTest@5bf0d49]" started-at="2024-05-28T16:20:08 IST" name="fillBookingFromAndSubmit" finished-at="2024-05-28T16:20:11 IST" duration-ms="3513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillBookingFromAndSubmit -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:CapstoneProjects.BookingFormTest@5bf0d49]" started-at="2024-05-28T16:20:11 IST" name="tearDown" finished-at="2024-05-28T16:20:15 IST" duration-ms="4081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- CapstoneProjects.BookingFormTest -->
+      <class name="CapstoneProjects.FlightSearchTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:CapstoneProjects.FlightSearchTest@1d296da]" started-at="2024-05-28T16:20:39 IST" name="setUp" finished-at="2024-05-28T16:20:49 IST" duration-ms="9669" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchOneWayFlight()[pri:0, instance:CapstoneProjects.FlightSearchTest@1d296da]" started-at="2024-05-28T16:20:49 IST" name="searchOneWayFlight" finished-at="2024-05-28T16:20:50 IST" duration-ms="745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchOneWayFlight -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:CapstoneProjects.FlightSearchTest@1d296da]" started-at="2024-05-28T16:20:50 IST" name="tearDown" finished-at="2024-05-28T16:20:51 IST" duration-ms="1369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:CapstoneProjects.FlightSearchTest@1d296da]" started-at="2024-05-28T16:20:51 IST" name="setUp" finished-at="2024-05-28T16:22:04 IST" duration-ms="72596" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchRoundTripFlight()[pri:0, instance:CapstoneProjects.FlightSearchTest@1d296da]" started-at="2024-05-28T16:22:04 IST" name="searchRoundTripFlight" finished-at="2024-05-28T16:22:04 IST" duration-ms="503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchRoundTripFlight -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:CapstoneProjects.FlightSearchTest@1d296da]" started-at="2024-05-28T16:22:04 IST" name="tearDown" finished-at="2024-05-28T16:22:06 IST" duration-ms="1426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- CapstoneProjects.FlightSearchTest -->
+      <class name="CapstoneProjects.BookignPageValidationTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:CapstoneProjects.BookignPageValidationTest@7c7a06ec]" started-at="2024-05-28T16:22:06 IST" name="setUp" finished-at="2024-05-28T16:22:16 IST" duration-ms="10704" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateBookingPageFields()[pri:0, instance:CapstoneProjects.BookignPageValidationTest@7c7a06ec]" started-at="2024-05-28T16:22:16 IST" name="validateBookingPageFields" finished-at="2024-05-28T16:22:21 IST" duration-ms="5072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBookingPageFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:CapstoneProjects.BookignPageValidationTest@7c7a06ec]" started-at="2024-05-28T16:22:21 IST" name="tearDown" finished-at="2024-05-28T16:22:24 IST" duration-ms="2534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- CapstoneProjects.BookignPageValidationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
